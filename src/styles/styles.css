@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Inter";
+  src: url("../assets/Inter-SemiBold.ttf");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Inter Regular";
+  src: url("../assets/Inter-Regular.ttf");
+  font-display: fallback;
+}
+
+

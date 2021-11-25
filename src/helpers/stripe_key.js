@@ -1,0 +1,3 @@
+const publicKey = "pk_test_51JwzwpDmvfBhrFsUoXgUUmmb0ShwWz4gQEPghS27G0xmRYQEdknHWgRcE2ydiBQukGdevPUaultDTKiDdmLMRUIe00YrCXeHmj";
+
+export default publicKey;
