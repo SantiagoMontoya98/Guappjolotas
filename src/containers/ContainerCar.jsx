@@ -71,8 +71,8 @@ const ContainerCar = ({setProduct}) => {
 
       lineItems: [...dataItem],
       mode: "payment",
-      successUrl: "http://localhost:3000/exito",
-      cancelUrl: "http://localhost:3000/cancelar"
+      successUrl: "https://guappjolotas.herokuapp.com/exito",
+      cancelUrl: "https://guappjolotas.herokuapp.com/cancelar"
 
     })
     .then(resp => {
