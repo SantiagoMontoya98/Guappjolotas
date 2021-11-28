@@ -106,7 +106,7 @@ const FormLogin = ({url}) => {
           className="inputFocus input"
           name="email"
           onChange={handleChange}
-          required/>
+          />
 
       </FloatingLabel>     
 
@@ -120,7 +120,7 @@ const FormLogin = ({url}) => {
           className="inputFocus input"
           name="password"
           onChange={handleChange}
-          required/>
+          />
 
       </FloatingLabel>
 
